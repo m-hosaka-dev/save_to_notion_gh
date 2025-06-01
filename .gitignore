@@ -1,0 +1,13 @@
+# 仮想環境
+gpt_env1/
+
+# Pythonキャッシュ・コンパイル済みファイル
+__pycache__/
+*.pyc
+
+# secrets 
+.streamlit/secrets.toml
+
+# MacOSの設定ファイルを除外
+.DS_Store
+
